@@ -1,7 +1,12 @@
-  # Hi 👋, I'm Pranav
-**`Growth Lead at NextWork`** 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranav!;" />
+</h1>
+</h1>
+<h3 align="center"> Data Analyst from India</h3>
+<img align="right" alt="Broken_gif" width="300" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif">
 
 ## About Me
+
 - 📊 Data Analyst with a strong foundation in SQL, Python, Excel, Tableau, and Power BI.
 - 🤖 Exploring Machine Learning to move from descriptive insights to predictive intelligence.
 - 💡 I believe data is like history — and history teaches us how to make better decisions.
