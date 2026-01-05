@@ -3,14 +3,25 @@
 </h1>
 </h1>
 <h3 align="center"> Data Analyst from India</h3>
-<img align="right" alt="Broken_gif" width="300" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif">
+
 
 ## About Me
+<img 
+  align="right"
+  alt="Broken_gif"
+  src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif"
+  style="
+    height: 160px;
+    width: 300px;
+    object-fit: cover;
+    object-position: bottom;
+  ">
 
 - 📊 Data Analyst with a strong foundation in SQL, Python, Excel, Tableau, and Power BI.
 - 🤖 Exploring Machine Learning to move from descriptive insights to predictive intelligence.
 - 💡 I believe data is like history — and history teaches us how to make better decisions.
 - 🚀 Open to opportunities in Data Analytics & Data Science.
+<div style="clear: both;"></div>
 
 ## Skill Stack
 <p align="left">
